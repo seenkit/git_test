@@ -7,5 +7,7 @@ public class Main {
         for (int i = 0; i < 10; i++) {
             integers.add(i);
         }
+
+        integers.forEach(System.out::println);
     }
 }
