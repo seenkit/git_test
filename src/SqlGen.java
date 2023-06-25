@@ -1,3 +1,5 @@
 public class SqlGen {
-    //sql gen TODO
+    public static void main(String[] args) {
+        //TODO
+    }
 }
